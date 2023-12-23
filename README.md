@@ -1,6 +1,6 @@
 <h1>Walmart Sales Analysis</h1>
 
-<p>This is the SQL based data analysis project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of different products, customer behaviour. The aim is to study how sales strategies can be improved and optimized.</p>
+<p>This SQL-based data analysis project explores Walmart Sales data to understand top performing branches and products, sales trends of different products, and customer behaviour. The aim is to study how sales strategies can be improved and optimized.</p>
 
 <h2> Analysis List</h2>
 
